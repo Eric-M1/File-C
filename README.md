@@ -1,13 +1,10 @@
 En --------------------
-
 Telegram: @FELIX4
-
 Instagram: @_ ph_wallpaper _ 
 
 Comparison of two files; during comparison, the code interacts with [Size, Lines, Equality].
 Check the size, check the difference in the lines of code, check the equality.
 This tool is suitable for checking proxy files (best)
-
 
 Install for Termux:
 apt upgrade && update
@@ -21,9 +18,9 @@ sudo apt install git
 sudo apt install python
 gin clone https://github.com/Eric-M1/File-C
 
+
 Ru --------------------
 Telegram: @FELIX4
-
 Instagram: @_ ph_wallpaper _ 
 
 Сравнение двух файлов; во время сравнения код взаимодействуется с [Размер, Линии, Равенство].
