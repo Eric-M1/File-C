@@ -11,7 +11,7 @@ apt upgrade && update
 apt install git
 pkg install python 
 gin clone https://github.com/Eric-M1/File-C
- 
+  
 Install for Linux:
 sudo apt update && upgrade
 sudo apt install git
