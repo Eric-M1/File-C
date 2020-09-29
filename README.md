@@ -5,7 +5,7 @@ Instagram: @_ph_wallpaper_
 Comparison of two files; during comparison, the code interacts with [Size, Lines, Equality].
 Check the size, check the difference in the lines of code, check the equality.
 This tool is suitable for checking proxy files (best)
-
+ 
 Install for Termux:
 apt upgrade && update
 apt install git
