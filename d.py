@@ -12,3 +12,4 @@ def send_text(message):
 
         else:
             pass
+bot.polling(none_stop=True, interval=0)
